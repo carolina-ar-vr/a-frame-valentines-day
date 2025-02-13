@@ -6,7 +6,7 @@ This workshop introduces students to extended reality (XR) and specifically how 
 
 At the conclusion of this workshop, I encourage students to read the extra slides and explore linked resources as they complete their PearlHacks projects :) Feel free to reach out to me with any questions, and if this workshop has sparked an interest in XR and graphics, consider [joining Carolina AR/VR](https://linktr.ee/carvr)!
 
-For those interested, check out [my Personal Website in XR!](https://ashleyinvr.glitch.me/) as an example!
+For those interested, check out [Ashley's Personal Website in XR!](https://ashleyinvr.glitch.me/) as an example!
 
 ## Pre-Workshop Setup
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop:
@@ -19,7 +19,8 @@ Please make sure to complete the following steps *before* attending the workshop
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
 1. Intro to XR and 3D Graphics presentation – 20 minutes
 2. A-Frame - 30 minutes
-   * Head to Glitch and [remix this repository](https://glitch.com/edit/#!/a-frame-valentines-day-workshop)
+   * Check out the completed version of what we'll make in this [completed glitch repository](https://glitch.com/edit/#!/a-frame-valentines-day-workshop)
+   * Head to Glitch and [remix this repository](https://glitch.com/edit/#!/a-frame-valentines-workshop-boilerplate)
    * Download the teapot and old well 3D models from this GitHub repository
    * Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
    * Follow along to setup your scene
