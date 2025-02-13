@@ -19,7 +19,7 @@ Please make sure to complete the following steps *before* attending the workshop
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
 1. Intro to XR and 3D Graphics presentation – 20 minutes
 2. A-Frame - 30 minutes
-   * Head to Glitch and [remix this repository](https://a-frame-valentines-day-workshop.glitch.me)
+   * Head to Glitch and [remix this repository](https://glitch.com/edit/#!/a-frame-valentines-day-workshop)
    * Download the teapot and old well 3D models from this GitHub repository
    * Use [Don McCurdy's glTF viewer](https://gltf-viewer.donmccurdy.com/) to test your glTF/glb models in the browser
    * Follow along to setup your scene
