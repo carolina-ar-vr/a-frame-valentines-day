@@ -17,7 +17,7 @@ Please make sure to complete the following steps *before* attending the workshop
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
-1. Intro to XR and 3D Graphics presentation – 20 minutes
+1. [Intro to XR and 3D Graphics presentation](https://www.canva.com/design/DAGfAQg_UbM/NrO3TT-80Y03bmElmvH6Ag/edit?utm_content=DAGfAQg_UbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) – 20 minutes
 2. A-Frame - 30 minutes
    * Check out the completed version of what we'll make in this [completed glitch repository](https://glitch.com/edit/#!/a-frame-valentines-day-workshop)
    * Head to Glitch and [remix this repository](https://glitch.com/edit/#!/a-frame-valentines-workshop-boilerplate)
