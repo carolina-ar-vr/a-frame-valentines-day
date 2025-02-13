@@ -27,6 +27,10 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
    * Customize with more assets, materials, sound, custom shaders, and more!
    * Test in the browser (either via your laptop, PC, mobile device, or HMD)!
 
+## Contributions and Credits
+- Workshop: Developed initially by Ashley Neall, the CARVR president, and modified and hosted by Arryn O'Brien and Grace Fei, software lead and design lead respectively.
+- vallentines day balloon.glb: https://sketchfab.com/3d-models/valentines-day-balloon-f899b78f1b09478098b018a29a56821d
+- oldWell.glb: Ashley Neall
 
 ## Post-Workshop Feedback and Resources
 * Finalized repository (will post after the workshop)
