@@ -30,10 +30,10 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 ## Contributions and Credits
 - Workshop: Developed initially by Ashley Neall, the CARVR president, and modified and hosted by Arryn O'Brien and Grace Fei, software lead and design lead respectively.
-- vallentines day balloon.glb: https://sketchfab.com/3d-models/valentines-day-balloon-f899b78f1b09478098b018a29a56821d
-- oldWell.glb: Ashley Neall
-- valentines_day_tree.glb: https://sketchfab.com/3d-models/valentines-day-2fd968a2f16e477e83aac086a2b4fa6b
-- valentines_cookies_8_fbx.glb: https://sketchfab.com/3d-models/valentines-cookies-8-fbx-c1537b217ad24aa6918f1d3d4b772149
+- oldWell.glb, lowpoly-tree.glb, teapot-lifesize.glb, unc-brickfloor.glb: Ashley Neall
+- vallentines day balloon.glb: [https://sketchfab.com/3d-models/valentines-day-balloon-f899b78f1b09478098b018a29a56821d](url)
+- valentines_day_tree.glb: [https://sketchfab.com/3d-models/valentines-day-2fd968a2f16e477e83aac086a2b4fa6b](url)
+- valentines_cookies_8_fbx.glb: [https://sketchfab.com/3d-models/valentines-cookies-8-fbx-c1537b217ad24aa6918f1d3d4b772149](url)
 
 ## Post-Workshop Feedback and Resources
 * Finalized repository (will post after the workshop)
